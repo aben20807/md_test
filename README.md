@@ -8,5 +8,7 @@ It is a test for using **Markdown** language
 *斜體*
 '  
 *斜體*  
-'~~刪除線~~'  
+'''
+~~刪除線~~
+'''  
 ~~刪除線~~  
